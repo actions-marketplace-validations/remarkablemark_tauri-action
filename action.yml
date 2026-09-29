@@ -1,4 +1,4 @@
-name: tauri-action
+name: build-tauri-action
 description: Build Tauri apps with GitHub Actions
 author: remarkablemark
 
